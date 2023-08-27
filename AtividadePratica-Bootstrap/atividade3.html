@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exemplo de Container e Grid do Bootstrap</title>
+    <style>
+    body {margin-top: 150px; }
+    .blue-background { background-color: blue; color: white; text-align: center; padding: 10px; height: 50px; }
+    .green-background { background-color: green; color: white; text-align: center; padding: 10px; height: 100px;}
+    .red-background { background-color: red; color: white; text-align: center; padding: 10px; height: 50px;}
+    .black-background { background-color: black; color: white; text-align: center; padding: 10px; height: 50px; }
+    .black1-background { background-color: black; color: white; text-align: center; padding: 10px; height: 100px; }
+    </style>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+    <div class="row">
+    <div class="col-md-12 black-background"></div>
+    </div>
+    <div class="row">
+      <div class="col-md-3 blue-background"></div>
+      <div class="col-md-3 green-background"></div>
+      <div class="col-md-3 red-background"></div>
+      <div class="col-md-3 black1-background" ></div>
+    </div>
+    <div class="row">
+        <div class="col-md-3 blue-background"></div>
+        <div class="col-md-3 offset"></div>
+      <div class="col-md-3 red-background"></div>
+      
+    </div>
+    <div class="row">
+      <div class="col-md-12 black-background"></div>
+    </div>
+  </div>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
+

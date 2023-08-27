@@ -1,0 +1,28 @@
+Vamos praticar!
+Chegou a hora de praticar um pouco mais sobre o conteúdo visto durante
+as aulas do módulo Front-end III. Vamos colocar em prática os
+conhecimentos de Bootstrap.
+
+Exercício #1
+Vamos exercitar o uso de container e grid do Bootstrap, crie uma página
+utilizando estes componentes para replicar o resultado abaixo.
+
+Exercício #2
+Vamos exercitar o uso de container e grid do Bootstrap, crie uma página
+utilizando estes componentes para replicar o resultado abaixo.
+
+Exercício #3
+Vamos exercitar o uso de container e grid do Bootstrap, crie uma página
+utilizando estes componentes para replicar o resultado abaixo. As partes
+em branco estão vazias, vou dar uma dica pode utilizar offset.
+
+Exercício #4
+Aplique Bootstrap no site desenvolvido para seu currículo, utilize “grid”,
+para deixar ele responsivo.
+
+Exercício #5
+Vamos exercitar o uso de container, grid e outros elementos do Bootstrap,
+crie uma página utilizando estes componentes para replicar o resultado
+abaixo.
+
+Bora growdevers 🚀
